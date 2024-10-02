@@ -1,0 +1,9 @@
+.hero{
+    background: url(../assets/images/hero.jpeg) no-repeat center center;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+
+}
