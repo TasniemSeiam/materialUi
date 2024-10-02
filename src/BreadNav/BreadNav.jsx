@@ -9,7 +9,7 @@ import ShoppingCartOutlinedIcon from "@mui/icons-material/ShoppingCartOutlined";
 import { Breadcrumbs, Button, Link, Stack, Typography } from "@mui/material";
 const BreadNav = () => {
   return (
-    <Stack direction="row" spacing={100} sx={{px:2, py:1, borderBottom:"solid 1px #bbb " }} role="presentation">
+    <Stack direction="row" spacing={102} sx={{px:2, py:1, borderBottom:"solid 1px #bbb " }} role="presentation">
       <Typography variant="h5"fontWeight={500}>
         EQ3
       </Typography>
